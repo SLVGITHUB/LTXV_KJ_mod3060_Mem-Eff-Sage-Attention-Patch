@@ -1,4 +1,3 @@
-Here's a beautifully formatted README.md for your process:
 
 ```markdown
 # 🔧 KJ Nodes - Sage Attention Mode Activation Guide
