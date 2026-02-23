@@ -27,7 +27,13 @@ This guide walks you through the process of replacing the node file to activate 
 **Option A - Using File Explorer:**
 
 ---
+## ⚠️ Important Notes
 
+- 🚫 Do **NOT** skip the backup step
+- 🔍 Ensure you're in the correct directory before replacement
+- 🔄 Restart ComfyUI after file replacement
+
+---
 ## 📁 File Structure Reference
 
 ```
@@ -47,14 +53,6 @@ C:\ComfyUI
 After replacement, restart ComfyUI and verify that:
 - The node appears in your node list
 - Sage Attention mode is available in the node settings
-
----
-
-## ⚠️ Important Notes
-
-- 🚫 Do **NOT** skip the backup step
-- 🔍 Ensure you're in the correct directory before replacement
-- 🔄 Restart ComfyUI after file replacement
 
 ---
 
