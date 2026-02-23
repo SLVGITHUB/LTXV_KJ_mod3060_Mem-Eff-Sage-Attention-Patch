@@ -6,6 +6,7 @@
 
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom_Node-orange)](https://github.com/comfyanonymous/ComfyUI)
 [![Version](https://img.shields.io/badge/Version-1.0-blue)]()
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6)]()
 
 </div>
 
@@ -20,8 +21,8 @@ This guide walks you through the process of replacing the node file to activate 
 ## ⚙️ Step-by-Step Instructions
 
 ### 📂 1. Navigate to the Nodes Directory
-```bash
-cd C:\ComfyUI\custom_nodes\comfyui-kjnodes\nodes
+
+**Option A - Using File Explorer:**
 
 ---
 
