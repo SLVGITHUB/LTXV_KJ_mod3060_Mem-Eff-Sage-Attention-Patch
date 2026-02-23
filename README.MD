@@ -1,5 +1,3 @@
-
-```markdown
 # 🔧 KJ Nodes - Sage Attention Mode Activation Guide
 
 <div align="center">
@@ -24,21 +22,6 @@ This guide walks you through the process of replacing the node file to activate 
 ### 📂 1. Navigate to the Nodes Directory
 ```bash
 cd C:\ComfyUI\custom_nodes\comfyui-kjnodes\nodes
-```
-
-### ⚠️ 2. BACKUP YOUR BASE NODE
-**Important!** Before proceeding, create a backup of the original file:
-
-```bash
-# Copy the original file as backup
-copy ltxv_nodes.py ltxv_nodes_backup.py
-```
-
-### 🔄 3. Replace the Node File
-Replace the existing `ltxv_nodes.py` with the new version in:
-```
-C:\ComfyUI\custom_nodes\comfyui-kjnodes\nodes
-```
 
 ---
 
