@@ -1,4 +1,4 @@
-# 🔧 KJ Nodes - Sage Attention Mode Activation Guide
+# 🔧 KJ Nodes - Sage Attention Mode Activation Guide on RTX30XX Videocards
 
 <div align="center">
   
