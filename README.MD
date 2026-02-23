@@ -4,6 +4,8 @@
   
 ### *Enable Sage Attention mode in KJ: LTX2 Mem Eff Sage Attention Patch*
 
+If you are experiencing a drop when processing VAE tiled and any decoding on the RTX30XX video processor, use this notch instead of the LTX2 Mem Eff Sage Attention Patch from KJ if it does not work for you
+
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom_Node-orange)](https://github.com/comfyanonymous/ComfyUI)
 [![Version](https://img.shields.io/badge/Version-1.0-blue)]()
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6)]()
